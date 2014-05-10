@@ -9,4 +9,16 @@ This README is divided into 2 separate files:
  1. My own notes (here in READMEFIRST.md)
  2. Problem statement (read README.md)
 
-# My own notes
+# Assumptions
+
+ 1. Evaluator has placed the text file `household_power_consumption.txt` into the root folder of this project.
+ 2.
+ 3.
+ 
+# How to begin
+
+ 1. Go <a href="https://github.com/rdpeng/ExData_Plotting1"> Roger Peng's repo</a> and fork the project
+ 2. Read the README and download the <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">zip file</a>.
+ 3. 
+
+
