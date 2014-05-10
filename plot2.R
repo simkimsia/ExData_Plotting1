@@ -7,6 +7,9 @@ days <- strptime(paste(dataset$Date, dataset$Time), format='%d/%m/%Y %H:%M:%S')
 if (Sys.info()["sysname"] == "Darwin") {
   quartz() #for windows its windows() fpr unix it's X11()
 }
+if (Sys.info()["sysname"] == "Windows") {
+  windows()
+}
 
 png("plot2.png")
 
