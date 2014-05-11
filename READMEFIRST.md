@@ -12,8 +12,8 @@ This README is divided into 2 separate files:
 # Assumptions
 
  1. Evaluator has placed the text file `household_power_consumption.txt` into the root folder of this project.
- 2.
- 3.
+ 2. Evaluator is using either Windows or Mac
+ 3. Evaluator has installed the package `sqldf`
  
 # How to begin
 
@@ -24,7 +24,8 @@ This README is divided into 2 separate files:
    - you are supposed to load the data from the text file unzipped from the zip file
    - you need only a subset of the data in the text file
    - the subset needed falls into 2 dates 1/2/2007 and 2/2/2007
- 4. Get the data subset correctly and you should see 2880 obs. of 9 variables.
+ 4. Get the data subset correctly and you should see 2880 obs. of 9 variables. This is largely taken care of by my `load_data.R` script
+ 5. Create a plot script for each scenario. In my case they are `plot1.R`, `plot2.R`, `plot3.R`, `plot4.R`. Imaginative naming, I know. :)
  
 
 
