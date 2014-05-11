@@ -24,8 +24,14 @@ The project README is divided into 2 separate files:
    - you are supposed to load the data from the text file unzipped from the zip file
    - you need only a subset of the data in the text file
    - the subset needed falls into 2 dates 1/2/2007 and 2/2/2007
- 4. Get the data subset correctly and you should see 2880 obs. of 9 variables. This is largely taken care of by my `load_data.R` script
- 5. Create a plot script for each scenario. In my case they are `plot1.R`, `plot2.R`, `plot3.R`, `plot4.R`. Imaginative naming, I know. :)
+ 4. Get the data subset correctly and you should see 2880 obs. of 9 variables. This is largely taken care of by my `load_data.R` <a href="https://github.com/simkimsia/ExData_Plotting1/blob/master/load_data.R">script</a>
+ 5. Create a plot script for each scenario. In my case they are :
+   - <a href="https://github.com/simkimsia/ExData_Plotting1/blob/master/plot1.R">plot1.R</a>
+   - <a href="https://github.com/simkimsia/ExData_Plotting1/blob/master/plot2.R">plot2.R</a>
+   - <a href="https://github.com/simkimsia/ExData_Plotting1/blob/master/plot3.R">plot3.R</a>
+   - <a href="https://github.com/simkimsia/ExData_Plotting1/blob/master/plot4.R">plot4.R</a>
+   
+Imaginative naming, I know. :)
  
 
 
