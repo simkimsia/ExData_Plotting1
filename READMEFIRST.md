@@ -5,7 +5,7 @@ Exploratory Data Analysis course code: exdata-002 Project 1 in May 2014.
 
 Below are the instructions of the problem and copied directly from the coursera
 
-This README is divided into 2 separate files:
+The project README is divided into 2 separate files:
  1. My own notes (here in READMEFIRST.md)
  2. Problem statement (read <a href="https://github.com/simkimsia/ExData_Plotting1/blob/master/README.md">README.md</a>)
 
