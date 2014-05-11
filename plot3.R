@@ -29,29 +29,16 @@ plot(days,
      col="black"
      )
 
-par(new = TRUE)
 # Create plot for y2
-plot(days, 
+lines(days, 
      y2,
-     ylim=range(all_y),
-     type="l", 
-     xlab="", 
-     ylab="", 
-     axes = FALSE, 
-     col="red"
-     )
+     col="red")
 
-par(new = TRUE)
 # Create plot for y3
-plot(days, 
+lines(days, 
      y3,
-     ylim=range(all_y),
-     type="l", 
-     xlab="", 
-     ylab="", 
-     axes = FALSE,
      col="blue"
-     )
+)
 
 #create legend
 legend("topright", legend = c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"), col=c("black", "red", "blue"), lty = 1) # optional legend
